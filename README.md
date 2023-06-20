@@ -1,18 +1,22 @@
-## Getting Started
+Java FX Frogger Project
+Welcome to the Java FX Frogger project! This project is a recreation of the classic arcade game Frogger using Java FX for graphical user interface (GUI) implementation and serialization to persist game data.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Project Overview
+The Java FX Frogger project aims to provide an interactive and enjoyable gaming experience by replicating the mechanics and visuals of the original Frogger game. The project utilizes Java FX, a powerful GUI framework, to create an intuitive and visually appealing user interface.
 
-## Folder Structure
+In addition to the game functionality, this project incorporates serialization to allow players to save and load their progress. By implementing serialization, players can continue their gameplay from where they left off, even after closing and reopening the game. This feature adds convenience and enhances the overall gaming experience.
 
-The workspace contains two folders by default, where:
+Features
+Classic Frogger Gameplay: The game follows the familiar Frogger mechanics, where the player controls a frog and must navigate it across a busy road avoiding obstacles and collecting points along the way.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Intuitive GUI: The project utilizes Java FX to create a user-friendly graphical user interface. The GUI provides clear visuals, responsive controls, and informative feedback, making it easy for players to interact with the game.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Serialization: The game implements serialization to allow players to save their progress. This feature enables users to resume the game from the exact point they left off, providing a seamless gaming experience.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Sound Effects: Engaging sound effects are incorporated into the game to enhance the overall gaming experience and create an immersive atmosphere.
 
-## Dependency Management
+Dependencies
+The Java FX Frogger project relies on the following dependencies:
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Java Development Kit (JDK) 8 or later
+Java FX libraries
