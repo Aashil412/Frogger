@@ -23,5 +23,5 @@ Java FX libraries
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS...
+Java, GUI's, Serializable, CSS
 
