@@ -1,0 +1,35 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+#logInButton{
+	-fx-cursor: hand;
+}
+#logInButton:hover{
+	 -fx-min-width: 50;
+    -fx-min-height: 30;
+    -fx-max-width: 50;
+    -fx-max-height: 40;
+}
+
+#label{
+	-fx-text-fill: Green;
+}
+#playButton{
+	-fx-background-radius: 10px;
+	-fx-border-radius: 20;
+    -fx-cursor: hand;
+    -fx-padding: 10 20;
+}
+#Controls{
+	-fx-background-radius: 10px;
+	-fx-border-radius: 20;
+    -fx-cursor: hand;
+    -fx-padding: 10 20;
+}
+#HighScore{
+	-fx-background-radius: 10px;
+	-fx-border-radius: 20;
+    -fx-cursor: hand;
+    -fx-padding: 10 20;
+}
+
+
+
